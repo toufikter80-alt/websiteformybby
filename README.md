@@ -122,8 +122,17 @@ All visual elements can be customized through CSS variables in the `:root` secti
   --color-message-text: #9E0E2B;
   
   /* Images */
-  --image-path-background: url('assets/main-bg.png');
-  --image-path-content: url('assets/image-content/image-1.png');
+<img width="104" height="105" alt="Image" src="https://github.com/user-attachments/assets/0c38dd66-f593-48ba-b3d1-6ee9acdb9622" />
+<img width="164" height="192" alt="Image" src="https://github.com/user-attachments/assets/6dbb6439-fcf0-4514-8f11-bc937858ba4f" />
+<img width="2093" height="1132" alt="Image" src="https://github.com/user-attachments/assets/6a609bb7-a31a-4f30-b338-1a641b3a7490" />
+<img width="104" height="105" alt="Image" src="https://github.com/user-attachments/assets/5a8dcaa0-63b2-49ee-8720-a19058a09090" />
+
+<img width="300" height="360" alt="Image" src="https://github.com/user-attachments/assets/86b91ef4-d408-476e-bf37-191a86929ce9" />
+<img width="300" height="360" alt="Image" src="https://github.com/user-attachments/assets/150545ac-59fa-4fd4-8d9e-e8d2e0629a52" />
+<img width="300" height="360" alt="Image" src="https://github.com/user-attachments/assets/37b75a35-c1b7-418c-b53a-094cd5b00845" />
+<img width="300" height="360" alt="Image" src="https://github.com/user-attachments/assets/c618aaee-9e2f-4c83-a56d-a8f026ca3701" />
+<img width="300" height="360" alt="Image" src="https://github.com/user-attachments/assets/64e297e9-16ce-4e42-b4b3-e7760254a535" />
+<img width="300" height="360" alt="Image" src="https://github.com/user-attachments/assets/3807e32e-a77a-46f7-a5b7-f00ad83e6437" />;
   
   /* Fonts */
   --font-family-main: "Pixelify Sans", sans-serif;
